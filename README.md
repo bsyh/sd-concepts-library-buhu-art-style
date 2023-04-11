@@ -4,9 +4,9 @@ This repository contains a trainning script that fetch the list of art work prod
 
 ## Usage
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsyh/sd-concepts-library-buhu-art-style/blob/main/stable_conceptualizer_inference.ipynb) Open Stable Diffusion usage pipe in Colab 
-- [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-ModelHub-orange)](https://huggingface.co/sd-concepts-library/buhu-art-style) Load pre-trainned model 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsyh/sd-concepts-library-buhu-art-style/blob/main/sd_textual_inversion_training.ipynb)  (Optional) if you want to train the model by yourself, use this Model Trainner 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsyh/sd-concepts-library-buhu-art-style/blob/main/stable_conceptualizer_inference.ipynb) Open Stable Diffusion usage pipe in Colab. Modify your prompt at the end of the file.  
+- [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-ModelHub-orange)](https://huggingface.co/sd-concepts-library/buhu-art-style) Load pre-trainned model.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsyh/sd-concepts-library-buhu-art-style/blob/main/sd_textual_inversion_training.ipynb)  (Optional) if you want to train the model by yourself, use the Model Trainner.
 
 ## Example
 generated image
