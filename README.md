@@ -1,6 +1,6 @@
 # sd-concepts-library-buhu-art-style
 
-This repository contains a trainning script that fetch the list of art work produced by [Bruce](https://www.artstation.com/buhu)[![ArtStation](bruceelysium.com)](https://www.artstation.com/buhu) and a Stable Diffusion pipe that generate images using the model, under the instruction of [Stable Diffusion concepts library](https://huggingface.co/sd-concepts-library). 
+This repository contains a trainning script that fetch the list of art work produced by [Bruce](https://bruceelysium.com)[![ArtStation](https://img.shields.io/badge/ArtStation-Profile-blue)](https://www.artstation.com/buhu) and a Stable Diffusion pipe that generate images using the model, under the instruction of [Stable Diffusion concepts library](https://huggingface.co/sd-concepts-library). 
 
 ## Usage
 
