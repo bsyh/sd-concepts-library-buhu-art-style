@@ -9,10 +9,10 @@ This repository contains a trainning script that fetch the list of art work prod
 
 
 ## Example
-
-![generated image 1](img/f1.png )
-![generated image 1](img/f2.png)
-![human painted image 1](img/r1.png)
-![human painted  image 1](img/r1.png)
-<img src="img/f1.png" width="100" height="100">
+generated image
+<img src="img/f1.png" width="250" height="250">
+<img src="img/f2.png" width="250" height="250">
+human painted  image
+<img src="img/r1.png" width="250" height="250">
+<img src="img/r2.png" width="250" height="250">
 
