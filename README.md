@@ -11,8 +11,8 @@ This repository contains a trainning script that fetch the list of art work prod
 ## Example
 generated image
 <img src="img/f1.png" width="250" height="250">
-<img src="img/f2.png" width="250" height="250">
+<img src="img/f2.png" width="250" height="250">\
 human painted  image
-<img src="img/r1.png" width="250" height="250">
-<img src="img/r2.png" width="250" height="250">
+<img src="img/r1.jpg" width="250" height="250">
+<img src="img/r2.jpg" width="250" height="250">
 
