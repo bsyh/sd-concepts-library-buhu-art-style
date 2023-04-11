@@ -13,6 +13,6 @@ generated image
 <img src="img/f1.png" width="250" height="250">
 <img src="img/f2.png" width="250" height="250">\
 human painted  image
-<img src="img/r1.jpg" width="300" height="250">
-<img src="img/r2.jpg" width="250" height="250">
+<img src="img/h1.jpg" width="300" height="250">
+<img src="img/h2.jpg" width="250" height="250">
 
