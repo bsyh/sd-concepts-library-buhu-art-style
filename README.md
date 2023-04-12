@@ -18,7 +18,7 @@ human painted  image\
 <img src="img/h1.jpg" width="300" height="250">
 <img src="img/h2.jpg" width="250" height="250">
 ### img2img
-<img src="img/h3.jpg" width="333" height="500"><img src="img/f3.jpg" width="999" height="500"> 
+<img src="img/h3.jpg" width="333" height="500"><img src="img/f3.png" width="999" height="500"> 
 
 
 
