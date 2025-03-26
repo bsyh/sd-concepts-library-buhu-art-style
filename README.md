@@ -12,7 +12,7 @@ This repository contains a trainning script that fetch the list of art work prod
 ## Example
 ### text2image
 generated image\
-<img src="img/f1.png" width="250" height="250">
+<img src="img/f1.png" width="250" height="250">\
 human painted  image\
 <img src="img/h1.jpg" width="300" height="250">
 <img src="img/h2.jpg" width="250" height="250">
